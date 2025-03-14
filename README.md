@@ -10,7 +10,8 @@ I'm an IT student with a growing passion for C++ and data structures. Currently,
 - tenDA2 - link Github
 - ...
 
-### Connect with me: Đưa ra cách để mọi người liên hệ với bạn qua email hoặc các mạng xã hội liên quan đến công việc như LinkedIn, Twitter, v.v.
+### Connect with me: 
+w3schools https://www.w3profile.com/tranmyhuyen
 
 ### Note
 - Sử dụng ngôn ngữ rõ ràng, ngắn gọn: Phần Welcome nên dễ đọc và đi thẳng vào vấn đề.
